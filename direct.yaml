@@ -33,6 +33,7 @@ payload:
   - DOMAIN-KEYWORD,tech26
   - DOMAIN-KEYWORD,n26
   - DOMAIN-KEYWORD,fidelity
+  - DOMAIN-KEYWORD,infinitepay
   - DOMAIN-SUFFIX,seagm.com
   - DOMAIN-KEYWORD,paypal
   - USER-AGENT,PayPal*
