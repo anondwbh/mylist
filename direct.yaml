@@ -38,6 +38,9 @@ payload:
   - DOMAIN-KEYWORD,paypal
   - USER-AGENT,PayPal*
   - DOMAIN-KEYWORD,ebay
+  - DOMAIN-KEYWORD,gopay
+  - DOMAIN-KEYWORD,gojek
+  - DOMAIN-KEYWORD,toss
   - DOMAIN-SUFFIX,multi-byte.io
   - DOMAIN-SUFFIX,3gppnetwork.org
 # Cloud
@@ -64,8 +67,6 @@ payload:
   - IP-CIDR,162.14.0.0/18,no-resolve
   - DOMAIN-KEYWORD,naver
   - DOMAIN-KEYWORD,navercorp
-  - DOMAIN-KEYWORD,gopay
-  - DOMAIN-KEYWORD,gojek
 # DB
   - DOMAIN-KEYWORD,heinonline
   - DOMAIN-KEYWORD,westlaw
