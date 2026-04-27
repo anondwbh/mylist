@@ -41,6 +41,10 @@ payload:
   - DOMAIN-KEYWORD,gopay
   - DOMAIN-KEYWORD,gojek
   - DOMAIN-KEYWORD,toss
+  - DOMAIN-KEYWORD,gate
+  - DOMAIN-SUFFIX,i-aurora.co.kr
+  - DOMAIN-SUFFIX,dtcpay.com
+  - DOMAIN-SUFFIX,digitalcardservice.com
   - DOMAIN-SUFFIX,multi-byte.io
   - DOMAIN-SUFFIX,3gppnetwork.org
 # Cloud
