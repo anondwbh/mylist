@@ -3,11 +3,11 @@ payload:
   - DOMAIN-KEYWORD,ovhcloud # OVH
   - DOMAIN-KEYWORD,ovhusa # OVH
   - DOMAIN-KEYWORD,equifax # Equifax
-#  - DOMAIN-KEYWORD,kraken  # Kraken
+  - DOMAIN-KEYWORD,kraken  # Kraken
   - DOMAIN-SUFFIX,bonify.de # Bonify
   - DOMAIN-KEYWORD,t-mobile # T-Mobile
   - DOMAIN-KEYWORD,firstrade #Firstrade
-#  - DOMAIN-KEYWORD,www.google. #Google
+  - DOMAIN-KEYWORD,www.google. #Google
   - DOAMIN-SUFFIX,redpocket.com #RedPocket
   - DOMAIN-KEYWORD,revolut # Revolut
 # AI
