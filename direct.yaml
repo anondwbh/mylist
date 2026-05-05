@@ -34,6 +34,7 @@ payload:
   - DOMAIN-KEYWORD,n26
   - DOMAIN-KEYWORD,fidelity
   - DOMAIN-KEYWORD,infinitepay
+  - DOMAIN-SUFFIX,rendimento.com.br
   - DOMAIN-SUFFIX,seagm.com
   - DOMAIN-KEYWORD,paypal
   - USER-AGENT,PayPal*
